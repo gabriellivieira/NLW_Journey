@@ -1,0 +1,9 @@
+langchain-openai 
+langchain-community
+langchainhub
+bs4
+langchain-text-splitters
+langchain-core
+duckduckgo-search 
+wikipedia
+chromadb
